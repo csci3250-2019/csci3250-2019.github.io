@@ -4,6 +4,7 @@ There are some teams in our course project:
 
 * [Team A](https://csci3250-2019.github.io/project-team-a/ 'Team-A')
 * [Team B](https://csci3250-2019.github.io/project-team-b/ 'Team-B')
+* [Team E](https://csci3250-2019.github.io/project-team-e/ 'Team-E')
 
 For more details, contact @chuckjee regarding course issues.
 

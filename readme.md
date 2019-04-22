@@ -9,6 +9,7 @@ There are some teams in our course project:
 * [Team E](https://csci3250-2019.github.io/project-team-e/ 'Team-E')
 * [Team H](https://csci3250-2019.github.io/project-team-h/ 'Team-H')
 * [Team I](https://csci3250-2019.github.io/project-team-i/ 'Team-I')
+* [Team J](https://csci3250-2019.github.io/project-team-j/ 'Team-J')
 
 For more details, contact @chuckjee regarding course issues.
 

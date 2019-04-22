@@ -7,6 +7,7 @@ There are some teams in our course project:
 * [Team C](https://csci3250-2019.github.io/project-team-c/ 'Team-C')
 * [Team D](https://csci3250-2019.github.io/project-team-c/ 'Team-D')
 * [Team E](https://csci3250-2019.github.io/project-team-e/ 'Team-E')
+* [Team G](https://csci3250-2019.github.io/project-team-g/ 'Team-G')
 * [Team H](https://csci3250-2019.github.io/project-team-h/ 'Team-H')
 * [Team I](https://csci3250-2019.github.io/project-team-i/ 'Team-I')
 * [Team J](https://csci3250-2019.github.io/project-team-j/ 'Team-J')
